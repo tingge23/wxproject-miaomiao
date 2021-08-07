@@ -1,0 +1,1 @@
+"D:\SoftwareInstall\weixinApplet\install\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-9g2i0p1ee3361499 --n quickstartFunctions --r --project "H:\VSCode projects\React\demo\miaomiaoApplet" --report

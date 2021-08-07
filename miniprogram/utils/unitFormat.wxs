@@ -1,0 +1,7 @@
+var unitFormat = function(number){
+    if (number >= 1000){
+      number = (number/1000).toFixed(1)+'K';//toFixed保留小数
+    }
+    return number;
+};
+module.exports.unitFormat = unitFormat;
